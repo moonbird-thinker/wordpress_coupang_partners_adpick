@@ -1,0 +1,1 @@
+# wordpress_coupang_partners_adpick
