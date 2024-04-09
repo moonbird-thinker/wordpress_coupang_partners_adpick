@@ -22,8 +22,8 @@ from wordpress_xmlrpc.methods import posts
 
 # url, username, password
 wordpress_address = 'http://워드프레스주소/xmlrpc.php'
-wordpress_id = ''
-wordpress_pw = ''
+wordpress_id = 'admin 관리자 ID'
+wordpress_pw = 'admin 관리자 PW'
 
 # wordpress 포스팅 - Rename XMLRPC 플러그인
 client = Client(wordpress_address, wordpress_id, wordpress_pw)
