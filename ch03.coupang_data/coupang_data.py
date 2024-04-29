@@ -227,14 +227,6 @@ if __name__ == '__main__':
         partner_coupang_requests()
         print('\n' + C_BOLD + C_YELLOW + C_BGBLACK + '[python requests 모듈(http 통신)을 이용한 쿠팡파트너스 정보 가져오기 완료]', C_END)
 
-        
-        
-        
-
-        
-        
-        
-    
     finally:
         # driver.close()  # 마지막 창을 닫기 위해서는 해당 주석 제거
         # driver.quit()
